@@ -2,7 +2,6 @@ const axios = require('axios')
 
 const api = axios.create({
   baseURL: 'https://binarysearch.com/api/',
-  timeout: 1000,
   headers: {} // token is added after login
 });
 
