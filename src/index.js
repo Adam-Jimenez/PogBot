@@ -1,6 +1,7 @@
 require('dotenv-flow').config()
 const { login, getChannels } = require('./api')
 const Chat = require('./chat')
+const commands = require('./commands')
 
 username = process.env.USERNAME
 password = process.env.PASSWORD
@@ -24,10 +25,16 @@ login(username, password).then(res => {
     if (author == username) {
       return
     }
-    if (message.startsWith("!echo")) {
-      msg_to_echo = message.split(" ").slice(1).join(" ")
-      console.log(`[PogBot] echoing ${msg_to_echo}`)
-      chat.sendMessage(channel, msg_to_echo)
+    if (message.startsWith("!")) {
+      words = message.split(" ")
+      command = words[0]
+      userInput = words.slice(1).join(" ")
+      if (commands.hasOwnProperty(command)) {
+        out = commands[command](userInput)
+        chat.sendMessage(channel, out)
+      } else {
+        // chat.sendMessage(channel, "Unrecognized command.")
+      }
     }
   })
 })
