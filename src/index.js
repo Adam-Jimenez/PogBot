@@ -1,7 +1,6 @@
 require('dotenv-flow').config()
 const { login, getChannels } = require('./api')
-const Chat = require('./chat')
-const commands = require('./commands')
+const Bot = require('./bot')
 
 username = process.env.USERNAME
 password = process.env.PASSWORD
@@ -15,27 +14,6 @@ login(username, password).then(res => {
   return getChannels(user.id)
 })
 .then(channels => {
-  chat = new Chat(user, token)
-  chat.joinChannel(channels.random)
-  chat.addMessageListener(payload => {
-    channel = payload.channelSlug
-    message = payload.message
-    author = payload.user.username
-    console.log(`${author}: ${message}`)
-    if (author == username) {
-      return
-    }
-    if (message.startsWith("!")) {
-      words = message.split(" ")
-      command = words[0]
-      userInput = words.slice(1).join(" ")
-      if (commands.hasOwnProperty(command)) {
-        out = commands[command](userInput)
-        chat.sendMessage(channel, out)
-      } else {
-        // chat.sendMessage(channel, "Unrecognized command.")
-      }
-    }
-  })
+  bot = new Bot(user, token, channels)
 })
 

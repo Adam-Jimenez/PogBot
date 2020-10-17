@@ -21,6 +21,9 @@ module.exports = class Chat {
   addMessageListener(fn) {
     this.socket.on('message', fn)
   }
+  removeMessageListener(fn) {
+    this.socket.off('message', fn)
+  }
   sendMessage(channel, message) {
     this.socket.emit('message', this.token, channel, message)
   }

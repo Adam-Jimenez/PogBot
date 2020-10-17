@@ -1,0 +1,19 @@
+What are the words of the acronym CD-ROM?
+
+Compact Disc Read Only Memory
+
+CD-ROM is a type of optical disc that originated in 1982 in Japan. A computer can read from, but not write to, a CD-ROM disc. Most CD-ROMs have a maximum capacity in the 650MB to 900MB range.
+
+One of the first electronic computers, located in Philadelphia, occupied 167 square metres, weighed 27 tons and consumed 150kW of electricity. What was it called?
+
+ENIAC
+
+ENIAC was developed and built by the U.S. Army for the purpose of calculating ballistic firing tables by emulating electronically a hand-operated mechanical calculator.
+It used a 10-digit decimal system rather than the binary system used by modern computers. It could not store programs, and conditional branching, a basic function of all modern computers, involved clumsy manual programming using wires and plugs.
+An amusing but false rumour at the time was that the lights in Philadelphia would dim whenever the behemoth was turned on. Only one ENIAC was ever built, and in 1955 it was put out of action by a lightning strike.
+
+Which British mathematician and inventor, known as the 'Father of the Computer', designed a mechanical computer called the Analytical Engine which was an early forerunner of the computer we know today?
+
+Charles Babbage
+
+Charles Babbage (1791-1871) had spent some years working on another project which he had called the Difference Engine, a type of mechanical calculator, although this venture never came fully to fruition. Undeterred, he started work on designing what became known as the Analytical Engine, a machine which used punched cards to input data, and became the forerunner of early computers. Unfortunately, due to funding and other problems, he was never able to see the first computers built from his designs, but his early pioneering work in the field led to him being known as the 'Father of the Computer'.
