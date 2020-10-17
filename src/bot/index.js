@@ -1,4 +1,4 @@
-const Chat = require('./chat')
+const Chat = require('../bsio/chat')
 const DefaultState = require('./states/default')
 const TriviaState = require('./states/trivia')
 
@@ -14,12 +14,23 @@ module.exports = class Bot {
     this.channels = channels
     this.chat = new Chat(botUser, token, channels)
     this.setState("default")
+
+    this.messageHandler = this.messageHandler.bind(this)
+
+    this.chat.addMessageListener(this.messageHandler)
+
   }
   setState(nextState) {
-    if (this.state) {
-      this.chat.removeMessageListeners()
-    }
     this.state = new states[nextState](this, this.chat, this.channels)
-    this.chat.addMessageListener(this.state.messageHandler)
+  }
+  messageHandler(payload) {
+    const { channelSlug , message, user } = payload
+    const author = user.username
+    console.log(`${author}: ${message}`)
+    if (author == username) {
+      return
+    }
+
+    this.state.messageHandler(payload)
   }
 }

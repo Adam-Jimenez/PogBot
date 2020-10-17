@@ -1,5 +1,5 @@
 require('dotenv-flow').config()
-const { login, getChannels } = require('./api')
+const { login, getChannels } = require('./bsio/api')
 const Bot = require('./bot')
 
 username = process.env.USERNAME
