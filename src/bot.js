@@ -1,20 +1,25 @@
 const Chat = require('./chat')
 const DefaultState = require('./states/default')
+const TriviaState = require('./states/trivia')
+
+states = {
+  "trivia": TriviaState,
+  "default": DefaultState
+}
 
 module.exports = class Bot {
   constructor(botUser, token, channels) {
     this.botUser = botUser
     this.token = token
     this.channels = channels
-    this.chat = new Chat(botUser, token)
-    this.chat.joinChannel(channels.random)
-    this.setState(new DefaultState(this, this.chat))
+    this.chat = new Chat(botUser, token, channels)
+    this.setState("default")
   }
-  setState(state) {
+  setState(nextState) {
     if (this.state) {
-      this.state.off()
+      this.chat.removeMessageListeners()
     }
-    this.state = state
-    this.state.on()
+    this.state = new states[nextState](this, this.chat, this.channels)
+    this.chat.addMessageListener(this.state.messageHandler)
   }
 }

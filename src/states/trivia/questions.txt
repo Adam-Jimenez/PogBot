@@ -1,0 +1,341 @@
+What are the words of the acronym CD-ROM?
+
+Compact Disc Read Only Memory
+
+CD-ROM is a type of optical disc that originated in 1982 in Japan. A computer can read from, but not write to, a CD-ROM disc. Most CD-ROMs have a maximum capacity in the 650MB to 900MB range.
+
+One of the first electronic computers, located in Philadelphia, occupied 167 square metres, weighed 27 tons and consumed 150kW of electricity. What was it called?
+
+ENIAC
+
+ENIAC was developed and built by the U.S. Army for the purpose of calculating ballistic firing tables by emulating electronically a hand-operated mechanical calculator.
+It used a 10-digit decimal system rather than the binary system used by modern computers. It could not store programs, and conditional branching, a basic function of all modern computers, involved clumsy manual programming using wires and plugs.
+An amusing but false rumour at the time was that the lights in Philadelphia would dim whenever the behemoth was turned on. Only one ENIAC was ever built, and in 1955 it was put out of action by a lightning strike.
+
+Which British mathematician and inventor, known as the 'Father of the Computer', designed a mechanical computer called the Analytical Engine which was an early forerunner of the computer we know today?
+
+Charles Babbage
+
+Charles Babbage (1791-1871) had spent some years working on another project which he had called the Difference Engine, a type of mechanical calculator, although this venture never came fully to fruition. Undeterred, he started work on designing what became known as the Analytical Engine, a machine which used punched cards to input data, and became the forerunner of early computers. Unfortunately, due to funding and other problems, he was never able to see the first computers built from his designs, but his early pioneering work in the field led to him being known as the 'Father of the Computer'.
+
+What is the conversion of the base-2 number, 00000111, into base-10?
+
+7
+
+Base 2 is often referred to as the "binary number system." Computer hardware makes computations based on two states, off and on, or zero and one. Each column in a binary number is a power of 2. The rightmost digit is 1. The next rightmost digit is 2 and the third digit from the right is 4. Adding these numbers together gives us the result, 7.
+
+Which general term refers to all kinds of harmful software, including viruses, worms, trojan horses, and spyware?
+
+Malware
+
+Malware is a shortened form of "malicious software."
+
+The CPU controls all of a computer's functions. It acts as the brain of the computer. What does CPU stand for?
+
+Central Processing Unit
+
+The CPU is a very important component of the computer. It acts as the brain of the computer and processes all of its information. The faster the CPU the faster it can process information. Some computers contain multiple CPU's, making them faster and capable of processing large amounts of information at one time. The speed of a CPU is measured in Hertz (Hz), today typically on a scale of Gigahertz (billions of Hertz). As computers become faster they will need more efficient CPUs that can handle large amounts of information at once.
+
+The 'Caesar Cipher' is also known as what?
+
+Rot3
+
+Caesar used a rotate-by-three cipher to communicate with his military. Each letter in a message is rotated left around the alphabet three places, so that D would become A, P would become M, and A would become X. This method was effective because most people in that age were illiterate, and those who were not had not yet devised cryptanalysis (methods for breaking codes).
+
+The first known computer virus was written in 1981 and was a forewarning of things to come. It was called 'Elk Cloner' and displayed a little rhyme on the screen, delivered by the floppy disks that contained the operating system. What type of computer was affected?
+
+Apple II
+
+A 15 year-old High School student, Richard Skrenta, wrote Elk Cloner. When the Apple II was booted from an infected floppy disk it would display a short poem; "It will get on all your disks-It will infiltrate your chips-Yes it's Cloner! -It will stick to you like glue-It will modify ram too-Send in the Cloner!"
+
+What does ICMP stand for?
+
+Internet Control Message Protocol
+
+ICMP Packets are used to send control messages including errors.
+
+What are the words of the acronym COBOL?
+
+COmmon Business Oriented Language
+
+COBOL has been around in various forms since 1959, but was standardized in the late 1960s and became the most commonly used programming language on legacy mainframe computers. Grace Hopper is known as the mother of COBOL.
+
+With respect to computer science principles, what is the term used for a reasonably detailed sequence of steps designed to solve a problem or perform a task?
+
+algorithm
+
+Basically, an algorithm is a detailed method for arriving at a solution for a given problem. There are many algorithms for accomplishing seemingly fundamental tasks, such as sorting numbers. Algorithms are often represented in what is known as pseudocode.
+
+Now you need something to reduce the heat produced by the main components. What would you use in an ordinary desktop computer?
+
+Fan
+
+Computer components often don't only do what they have to do, they also produce some heat. If the temperature reaches a too high point, your computer can be damaged. So you need to reduce the temperature while your computer is operating.
+Most cooling systems for desktops are based upon fans. As your computer gets more sophisticated, a more powerful fan is needed. Servers might even need refrigerators, for fans are not powerful enough for such large systems.
+Some fans are designed to suppress the noise they make. This comes in handy if you use your computer to process sound data.
+An igloo would not be a practical idea to use in your computer. The working temperature should never go under the freezing point, for this can damage the system. Ice cubes have another inconvenience too: moisture can be very hazardous for the functioning of any electronic device.
+
+Who laid out the basic concept of a modern computer as a computing machine that uses algorithms to produce results? His name is attached to a theoretical machine in many thought experiments.
+
+Alan Turing
+
+Alan Turing played a significant role in designing machines to break the German enigma code at Bletchley Park during World War II.
+
+1991 saw the 'Tequila' virus outbreak. It was the first virus that could change its signature (binary pattern) with each new replication in an attempt to escape detection from antivirus software. What's the term for this type of virus?
+
+Polymorphic
+
+Scanning for known viruses was relatively easy, as the scanners looked for certain byte patterns in executable files. Polymorphic viruses encode each replication with a different encryption routine making them near impossible to locate using this method. Antivirus companies had to get smarter and began to use algorithms to find the core viruses.
+
+What does SSL stand for?
+
+Secure Socket Layer
+
+A protocol developed by Netscape to allow secure connections over the net.
+
+Which woman is considered by many to be the world's first computer programmer?
+
+Ada Lovelace
+
+Augusta Ada Byron, the countess of Lovelace, worked extensively with Charles Babbage and his analytical engine. She published works which provided a foundation for computer programming. Among her published works is the following quote, "We may say most aptly that the analytical engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves."
+
+In the early 1990s, users were advised not to run their PCs on March 6, the activation date for a dormant computer virus. This virus came to be named after which famous Renaissance artist born on March 6?
+
+Michelangelo
+
+Relatively few computers were affected by the Michelangelo virus, although this may be because publicity regarding the threat prompted many people to obtain anti-virus software.
+
+Microsoft is a corporation that today is very successful. During its early years Microsoft competed with other companies that were already well known to create the best GUI for home use. What is the name of the series of operating systems created by Microsoft?
+
+Windows
+
+An operating system instructs a computer how to operate. Microsoft created their GUI (Graphical User Interface) operating system later then some other companies, including Apple. Since the idea of a home operating system was not widely accepted at the time, the demand to create one and get many people to use it was high. Microsoft had to play catch up in order to become successful. The first few versions of Windows did not sell well; the first version of Windows that did was Windows 3.0. Today, Windows is one of the most widely used operating systems. Microsoft periodically releases new versions of Windows.
+
+The computer salesman asked me what type of visual display unit I wanted. I stared blankly at him until he called it by what other name?
+
+Monitor
+
+Monitors have come a long way since the early days of personal computing. They used to be bulky boxes which used cathode ray tubes (CRT) and could take up half your desk space. In the 1990s, liquid-crystal display (LCD) monitors became popular; they were thinner and lighter than CRT monitors.
+
+Several components are assembled on a piece of electric circuitry. What is the specific name of this circuit board when it has several components pre-installed upon it?
+
+Motherboard
+
+The motherboard is the circuitry on which the processor, the memory and other components are assembled. Most motherboards come with sound channels, controllers, and other devices pre-installed.
+
+"LET A$=B$" is valid syntax for which computer programming language?
+
+BASIC
+
+The Beginners' All-Purpose Symbolic Instruction Code (BASIC) assigns values to variables with the "LET" statement. Experienced BASIC programmers know, however, that one can omit "LET" and write the above statement as "A$=B$".
+
+Name the top dude at the Oracle Corporation (as of March 1 2003)?
+
+Larry Ellison
+
+Larry, a great rival of Bill's, is also one of the richest men on the planet and doesn't mind talking about it either.
+
+What is it called when cybercriminals methodically try logging in to your account using every possible combination of characters until they get the correct password?
+
+Brute force attack
+
+It is called a brute force attack because of the enormity of the job. It is impossible to do manually, so hackers create specialized tools that process the checks for passwords millions of times per second. Longer passwords are recommended because shorter passwords mean that the brute force attack will be quicker.
+
+What are the words of the acronym USB?
+
+Universal Serial Bus
+
+USB was originally released in 1996 and has become a standard communications port on a variety of devices. Prior to the introduction of the USB standard, most devices had proprietary interfaces, requiring separate cables and connections for each device. By 2019, there were three generations of USB specifications: 1.x, 2.x and 3.x.
+
+You'll also need memory inside your computer. Which type of memory stores data only for the time your computer is turned on, but loses the data at a power break?
+
+RAM
+
+RAM is the abbreviation for Random Access Memory. It is used as a temporary data storage, but the contents will be lost as soon as you turn off your computer.
+
+Whose law observes that the number of transistors in integrated circuits, and hence computing power, double every two years?
+
+Gordon Moore
+
+It isn't your imagination! He predicted that the trend would continue for at least 10 years in 1965. It is still holding true almost 50 years later. Gordon Moore was co-founder of Intel Corporation.
+
+The following joke is based on which computer programming language? "GOD is REAL, unless declared INTEGER."
+
+FORTRAN
+
+Unlike the languages C or COBOL, FORTRAN does not require the programmer to declare all variables used in the program. If a variable is undeclared in FORTRAN, then it is assigned a default data type depending on the first letter of the variable name.
+Variables beginning with I, J, K, L, M or N are of type INTEGER by default. All others are REAL by default. So, GOD is a REAL number variable unless the programmer declares it as an INTEGER in the program.
+
+This self-replicating virus takes control of features on your computer that can transport files or information automatically. Most commonly they send out copies of themselves using your email address book. They can also open a backdoor into your computer for spammers and hackers. What's the generic term for this type of virus?
+
+Worm
+
+In this sinister world of deceitful computer advertising, spammers pay programmers for the creation of worms to give them backdoor access to your computer and often a list of accurate IP addresses. Worms attacking email address books can spread through the world like wild fire, crashing even the most secure servers. The name 'worm' appeared in the 1970 movie 'Shockwave Rider' to describe a program that propagates itself through a computer network.
+
+For which product might you create a "schema?"
+
+database
+
+The outline of the entries that make up a database is its "schema." Often it's more than just an outline, it's the definition of all relationships and data entry formats.
+
+Most people know that HTTP stands for Hyptertext Transfer Protocol. But do you know what the "S" stands for in HTTPS?
+
+Secure
+
+HTTPS is used for secure transactions on the Internet and uses TLS (Transport Layer Security) or its predecessor SSL (Secure Socket Layer). Two more acronyms for you!
+
+If you are interested in a venture into programming, you may consider downloading an implementation of JDK. What does JDK represent?
+
+Java Development Kit
+
+JDK or the Java Development Kit was originally released by Sun Microsystems in 1994. If you are interested, you may download the Java Standard Edition Development Kit. It can be a great introduction to computer programming.
+
+The computer salesman asked me what I was planning to do with my computer, and among other things, I told him I wanted to compose and play music. What internal component did he suggest I purchase?
+
+Sound card
+
+Most computers have integrated sound devices or sound chips, but buyers who want higher quality sound often purchase a sound card as an additional component. They are particularly popular for multimedia activities, such as video editing or creating presentations, and of course, they are popular with gamers.
+
+Of course you want your computer not only to function, but also to present the results in a visual form. What device do you need to send out visual information to a display?
+
+Video card
+
+Video cards send out the computed results to a display. The swifter your video card, the more apt it is to play games. In the beginning of the computer era, some video cards functioned only in two colours. Nowadays you can get the whole spectrum.
+
+What is the binary equivalent of 29?
+
+11101
+
+Computers use the digits of the binary numeric system when it comes to computer programming. The binary numeric system is a combination of 0s and 1s that represents natural numbers. Numbers are translated into a binary code by using the pattern 1, 2, 4, 8, etc (the pattern reads the other way around). Now bit 0 and bit 1 determines which of these numbers add up to a certain number. Since bit 0 means that the circuit is off, then the number(s) that correspond to bit 0 is not used. Since bit 1 indicates that the circuit is on, and then the number(s) that correspond to bit 1 is used. Now the question is to find the binary equivalent to the number 9. The necessary pattern to use is 16, 8, 4, 2, and 1 considering that the number is less than 32. The binary equivalent to 29 is 11101 because 16, 8, 4, and 1 are used to add up to 29, and 2 isn't.
+
+This sometimes malicious, irritating virus appears disguised as a gift, offer or update, with the sole intention to deceive you into approving its install. When the victim accepts the gift, a program is installed on your PC, which can then attack your files or alter configurations. Spyware falls under the banner of this pest. What's the generic term for this virus?
+
+Trojan
+
+Just like the Trojan Horse at Troy, things are not what they seem. New breeds of Trojans are extremely annoying and dangerous. They hijack your browser, bed themselves in your system memory and are near impossible to get rid of without a complete reformat. The devastating trojan 'My Doom' in 2004 (delivered via worm) bought many servers to a stand still. File sharing programs such as Kazaa are common spreading grounds for Trojans, in fact you agree to accept their own spyware when you install their software, and sweeping out their Trojans will render the PTP software useless.
+
+What is a MAC?
+
+Media Access Control
+
+MAC is short for Media Access Control address, an address unique to every piece of network hardware.
+
+Reputed to have invented the programming language COBOL, Grace Hopper was extremely influential in its development and in promoting its widespread use. She is said, incorrectly, to have invented what common computing term?
+
+Bug
+
+Contrary to popular myth, Grace Hopper did not coin the term "bug", which had been in use for many years, but she did help to popularise its use.
+While she was working for the US Navy in 1947, a moth was found stuck in a computer relay causing it to malfunction. The fix, to remove the offending creature, was known as "debugging".
+Likewise, Grace Hopper did not invent the programming language COBOL, but she certainly helped, while working as a technical consultant to the "Conference on Data Systems Languages" which developed COBOL in 1959. COBOL was partly based on her earlier work on programming languages and a compiler. For this reason she is often called "the grandmother of COBOL".
+She was sometimes referred to as "Amazing Grace". The U.S. Navy Arleigh Burke-class guided-missile destroyer USS Hopper was named for her, as was the Cray XE6 "Hopper" supercomputer at NERSC.
+
+You'll want something to store your long-term projects. For example, if you would use a computer to write a book, you'll have to save your text regularly on some device. What is a very common device to store programs you frequently use, long-term projects, and so on?
+
+Hard disk
+
+Hard disks are quite popular. You can store on a hard disk anything you like. If you store a text file on a hard disk, you can access it, make some alterations and store the new version. All you don't need any longer can be easily made inaccessible.
+Don't forget that "erasing" something from your hard disk does not physically remove it. Data are stored on segments of your hard disk, and "removing" any data by putting it into the trash can will only mark these segments as available for overwriting. If you are planning to dump your old computer and upgrading to a better one, you'll best find specific tools on the internet to effectively remove your private data on the hard disk.
+A photo frame or a floppy disk have only very limited storage capacity. Typical floppy disks can contain about 1 megabyte of data, where a typical hard disk comes with 80 gigabytes (this is about 80,000 floppy disks) or more.
+
+Which network operating system is Solaris a version of?
+
+UNIX
+
+Solaris is a version of Unix develpoed by Sun Microsystems. The things Solaris deals with are e-commerce, multithreading, and symmetric multiprocessing.
+
+What are the words of the acronym HDMI?
+
+High Definition Multimedia Interface
+
+HDMI specification was first used in consumer TVs in 2004. HDMI is a digital interface that has replaced audio video standards. While there used to be a need for several cords to connect to a TV (at least one for video and usually two or more for audio), HDMI allows both digital video and audio to be transmitted through the use of a single connection.
+
+What is meant by the internet slang acronym 'ROFL'?
+
+Rolling on floor laughing
+
+'ROFL' stands for 'rolling on floor laughing'. Similarly, this can also be written as 'ROTFL' which equates to 'rolling on 'the' floor laughing'. There are so many different acronyms for Internet slang and the list is growing and adapting all the time; one of the best known is 'LOL, for 'laughing out loud'. Speed in typing and space-limited requirements on such as Twitter posts, where a 'Tweet' is limited to a maximum of 140 characters, are among the reasons for this sometimes bewildering new way of communicating!
+
+The Stuxnet worm, discovered in June 2010, primarily attacked computer systems in which country?
+
+Iran
+
+It is widely speculated that Stuxnet was created by the governments of the United States and Israel, however there is no proof of this theory.
+
+A group of two or more computers that are connected to each other and are able to send and receive data is called a what?
+
+Network
+
+Networks range in their size and complexity. They range from small home and large business networks to the Internet. There must be some way to connect network devices together. The type of medium used depends on the network. If you are just connecting two devices you should probably use a simple cable, known also as "peer to peer networking". Other ways to connect devices include Infrared, Bluetooth, and Wi-Fi. Make sure you know which connection would work best for your devices and users before setting up a network.
+
+I told the computer salesman that besides saving files to the hard drive, I wanted to save them to a device that I could keep in my desk drawer. Considering that I bought my computer back in the early 1990s, what device did the salesman recommend I purchase?
+
+Floppy disks
+
+Back in the early days of personal computers, floppy disks truly were somewhat floppy - eight square inches of magnetic film with a soft plastic cover. More rigid diskettes in 5.25-inch and 3.5-inch sizes came later but the "floppy" name stuck.
+
+What is the word 'pixel' short for?
+
+picture element
+
+A pixel is a dot of light that appears on your monitor screen.
+
+One of the most significant and enduring facets of computer networking was the development of the WWW. What does "WWW" represent?
+
+world wide web
+
+The Internet began as a project conceived by the U.S. military called ARPAnet, which stands for Advanced Research Project Agency. Tim Berners-Lee promulgated the idea of a client-server system, in the form of a "web browser". Thus began the world wide web. At the very core of this innovation was a new protocol named HTTP, which stands for hypertext transfer protocol.
+
+What technology connects a user to the internet through copper telephone lines?
+
+DSL
+
+DSL is short for Digital Subscriber Lines. It provides high speed Internet access by transmitting digital data from a DSL modem to the DSL line that's connected to it.
+
+Prior to the publication of the 2016 NIST Digital Identity Guidelines, many banking institutions enabled a previously recommended method to ensure that you are logging into your account. Once you have logged into the account an email or an SMS message is sent. What is this type of authentication called?
+
+two-factor authentication
+
+The use of two-factor authentication is intended to be a more secure method. Two-factor authentication is intended to use something you know (password) and something you have (the code sent to you on a token, via email, or SMS (short message service)).
+However, in the 2016 version of the NIST Digital Identity Guidelines, it was recommended that all SMS messages be eliminated. Some of the reasons include the fact that users change phone numbers and the current level of security of smartphones.
+
+What network connects computers across a college building?
+
+LAN
+
+LAN is short for Local Area Network. It is a network that connects computers usually in a single building such as a home, agency, or school.
+
+What is all that unwanted, unsolicited junk mail in your e-mail inbox called?
+
+spam
+
+Real canned Spam: good stuff. Internet spam: bad, bad, bad!
+
+What are the words of the acronym GUI?
+
+Graphical User Interface
+
+Pronounced "gooey" (as in soft, stretchable, sticky candy), GUI refers to any user interface that uses graphics to interact and has largely replaced command line interfaces (CLIs). We commonly think of Apple Macintosh as one of the first computers to successfully implement the use of a GUI as well as subsequent Windows operating systems, although the Xerox Star 8010 workstation is generally credited as being the first commercial GUI.
+
+Computers contain several hardware components. But even if you have assembled the best hardware components for your design, you'll also need something else. What is the first and most crucial software to be installed on your computer?
+
+Operating system
+
+Your computer won't function without an operating system. Internet browsers, antivirus programs, office applications, games... can only be used on a computer if the appropriate operating system is installed.
+
+What does DES stand for?
+
+Data Encryption Standard
+
+Data Encryption Standard - A common form of encryption, which is limited to 56 bits out of North America.
+
+'WYSIWYG' is a great little computer word. But what does it stand for?
+
+What You See Is What You Get
+
+An acronym that is usually used to refer to word processing where the file you are working on as seen on the screen will be the same when it is printed out.
+
+What is a GPU?
+
+Graphics Processing Unit
+
+It is a chip dedicated to performing 3D calculations.
