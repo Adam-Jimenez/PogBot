@@ -7,6 +7,5 @@ exports.getPoints = function(user) {
 }
 exports.addPoints = function(user, extraPoints) {
   const points = exports.getPoints(user)
-  console.log(points + extraPoints)
   db.set(user, points + extraPoints).write()
 }

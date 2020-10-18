@@ -1,9 +1,3 @@
-What are the words of the acronym CD-ROM?
-
-Compact Disc Read Only Memory
-
-CD-ROM is a type of optical disc that originated in 1982 in Japan. A computer can read from, but not write to, a CD-ROM disc. Most CD-ROMs have a maximum capacity in the 650MB to 900MB range.
-
 One of the first electronic computers, located in Philadelphia, occupied 167 square metres, weighed 27 tons and consumed 150kW of electricity. What was it called?
 
 ENIAC
@@ -42,12 +36,6 @@ Rot3
 
 Caesar used a rotate-by-three cipher to communicate with his military. Each letter in a message is rotated left around the alphabet three places, so that D would become A, P would become M, and A would become X. This method was effective because most people in that age were illiterate, and those who were not had not yet devised cryptanalysis (methods for breaking codes).
 
-The first known computer virus was written in 1981 and was a forewarning of things to come. It was called 'Elk Cloner' and displayed a little rhyme on the screen, delivered by the floppy disks that contained the operating system. What type of computer was affected?
-
-Apple II
-
-A 15 year-old High School student, Richard Skrenta, wrote Elk Cloner. When the Apple II was booted from an infected floppy disk it would display a short poem; "It will get on all your disks-It will infiltrate your chips-Yes it's Cloner! -It will stick to you like glue-It will modify ram too-Send in the Cloner!"
-
 What does ICMP stand for?
 
 Internet Control Message Protocol
@@ -62,18 +50,9 @@ COBOL has been around in various forms since 1959, but was standardized in the l
 
 With respect to computer science principles, what is the term used for a reasonably detailed sequence of steps designed to solve a problem or perform a task?
 
-algorithm
+Algorithm
 
 Basically, an algorithm is a detailed method for arriving at a solution for a given problem. There are many algorithms for accomplishing seemingly fundamental tasks, such as sorting numbers. Algorithms are often represented in what is known as pseudocode.
-
-Now you need something to reduce the heat produced by the main components. What would you use in an ordinary desktop computer?
-
-Fan
-
-Computer components often don't only do what they have to do, they also produce some heat. If the temperature reaches a too high point, your computer can be damaged. So you need to reduce the temperature while your computer is operating.
-Most cooling systems for desktops are based upon fans. As your computer gets more sophisticated, a more powerful fan is needed. Servers might even need refrigerators, for fans are not powerful enough for such large systems.
-Some fans are designed to suppress the noise they make. This comes in handy if you use your computer to process sound data.
-An igloo would not be a practical idea to use in your computer. The working temperature should never go under the freezing point, for this can damage the system. Ice cubes have another inconvenience too: moisture can be very hazardous for the functioning of any electronic device.
 
 Who laid out the basic concept of a modern computer as a computing machine that uses algorithms to produce results? His name is attached to a theoretical machine in many thought experiments.
 
@@ -99,23 +78,11 @@ Ada Lovelace
 
 Augusta Ada Byron, the countess of Lovelace, worked extensively with Charles Babbage and his analytical engine. She published works which provided a foundation for computer programming. Among her published works is the following quote, "We may say most aptly that the analytical engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves."
 
-In the early 1990s, users were advised not to run their PCs on March 6, the activation date for a dormant computer virus. This virus came to be named after which famous Renaissance artist born on March 6?
-
-Michelangelo
-
-Relatively few computers were affected by the Michelangelo virus, although this may be because publicity regarding the threat prompted many people to obtain anti-virus software.
-
 Microsoft is a corporation that today is very successful. During its early years Microsoft competed with other companies that were already well known to create the best GUI for home use. What is the name of the series of operating systems created by Microsoft?
 
 Windows
 
 An operating system instructs a computer how to operate. Microsoft created their GUI (Graphical User Interface) operating system later then some other companies, including Apple. Since the idea of a home operating system was not widely accepted at the time, the demand to create one and get many people to use it was high. Microsoft had to play catch up in order to become successful. The first few versions of Windows did not sell well; the first version of Windows that did was Windows 3.0. Today, Windows is one of the most widely used operating systems. Microsoft periodically releases new versions of Windows.
-
-The computer salesman asked me what type of visual display unit I wanted. I stared blankly at him until he called it by what other name?
-
-Monitor
-
-Monitors have come a long way since the early days of personal computing. They used to be bulky boxes which used cathode ray tubes (CRT) and could take up half your desk space. In the 1990s, liquid-crystal display (LCD) monitors became popular; they were thinner and lighter than CRT monitors.
 
 Several components are assembled on a piece of electric circuitry. What is the specific name of this circuit board when it has several components pre-installed upon it?
 
@@ -128,12 +95,6 @@ The motherboard is the circuitry on which the processor, the memory and other co
 BASIC
 
 The Beginners' All-Purpose Symbolic Instruction Code (BASIC) assigns values to variables with the "LET" statement. Experienced BASIC programmers know, however, that one can omit "LET" and write the above statement as "A$=B$".
-
-Name the top dude at the Oracle Corporation (as of March 1 2003)?
-
-Larry Ellison
-
-Larry, a great rival of Bill's, is also one of the richest men on the planet and doesn't mind talking about it either.
 
 What is it called when cybercriminals methodically try logging in to your account using every possible combination of characters until they get the correct password?
 
@@ -190,18 +151,6 @@ Java Development Kit
 
 JDK or the Java Development Kit was originally released by Sun Microsystems in 1994. If you are interested, you may download the Java Standard Edition Development Kit. It can be a great introduction to computer programming.
 
-The computer salesman asked me what I was planning to do with my computer, and among other things, I told him I wanted to compose and play music. What internal component did he suggest I purchase?
-
-Sound card
-
-Most computers have integrated sound devices or sound chips, but buyers who want higher quality sound often purchase a sound card as an additional component. They are particularly popular for multimedia activities, such as video editing or creating presentations, and of course, they are popular with gamers.
-
-Of course you want your computer not only to function, but also to present the results in a visual form. What device do you need to send out visual information to a display?
-
-Video card
-
-Video cards send out the computed results to a display. The swifter your video card, the more apt it is to play games. In the beginning of the computer era, some video cards functioned only in two colours. Nowadays you can get the whole spectrum.
-
 What is the binary equivalent of 29?
 
 11101
@@ -229,14 +178,6 @@ While she was working for the US Navy in 1947, a moth was found stuck in a compu
 Likewise, Grace Hopper did not invent the programming language COBOL, but she certainly helped, while working as a technical consultant to the "Conference on Data Systems Languages" which developed COBOL in 1959. COBOL was partly based on her earlier work on programming languages and a compiler. For this reason she is often called "the grandmother of COBOL".
 She was sometimes referred to as "Amazing Grace". The U.S. Navy Arleigh Burke-class guided-missile destroyer USS Hopper was named for her, as was the Cray XE6 "Hopper" supercomputer at NERSC.
 
-You'll want something to store your long-term projects. For example, if you would use a computer to write a book, you'll have to save your text regularly on some device. What is a very common device to store programs you frequently use, long-term projects, and so on?
-
-Hard disk
-
-Hard disks are quite popular. You can store on a hard disk anything you like. If you store a text file on a hard disk, you can access it, make some alterations and store the new version. All you don't need any longer can be easily made inaccessible.
-Don't forget that "erasing" something from your hard disk does not physically remove it. Data are stored on segments of your hard disk, and "removing" any data by putting it into the trash can will only mark these segments as available for overwriting. If you are planning to dump your old computer and upgrading to a better one, you'll best find specific tools on the internet to effectively remove your private data on the hard disk.
-A photo frame or a floppy disk have only very limited storage capacity. Typical floppy disks can contain about 1 megabyte of data, where a typical hard disk comes with 80 gigabytes (this is about 80,000 floppy disks) or more.
-
 Which network operating system is Solaris a version of?
 
 UNIX
@@ -248,12 +189,6 @@ What are the words of the acronym HDMI?
 High Definition Multimedia Interface
 
 HDMI specification was first used in consumer TVs in 2004. HDMI is a digital interface that has replaced audio video standards. While there used to be a need for several cords to connect to a TV (at least one for video and usually two or more for audio), HDMI allows both digital video and audio to be transmitted through the use of a single connection.
-
-What is meant by the internet slang acronym 'ROFL'?
-
-Rolling on floor laughing
-
-'ROFL' stands for 'rolling on floor laughing'. Similarly, this can also be written as 'ROTFL' which equates to 'rolling on 'the' floor laughing'. There are so many different acronyms for Internet slang and the list is growing and adapting all the time; one of the best known is 'LOL, for 'laughing out loud'. Speed in typing and space-limited requirements on such as Twitter posts, where a 'Tweet' is limited to a maximum of 140 characters, are among the reasons for this sometimes bewildering new way of communicating!
 
 The Stuxnet worm, discovered in June 2010, primarily attacked computer systems in which country?
 
@@ -269,7 +204,7 @@ Networks range in their size and complexity. They range from small home and larg
 
 I told the computer salesman that besides saving files to the hard drive, I wanted to save them to a device that I could keep in my desk drawer. Considering that I bought my computer back in the early 1990s, what device did the salesman recommend I purchase?
 
-Floppy disks
+Floppy disk
 
 Back in the early days of personal computers, floppy disks truly were somewhat floppy - eight square inches of magnetic film with a soft plastic cover. More rigid diskettes in 5.25-inch and 3.5-inch sizes came later but the "floppy" name stuck.
 
@@ -339,3 +274,470 @@ What is a GPU?
 Graphics Processing Unit
 
 It is a chip dedicated to performing 3D calculations.
+
+What is the name of a function associated to a class, with only a signature and no implementation body?
+
+Abstract Method
+
+An abstract method is one with only a signature and no implementation body. It is often used to specify that a subclass must provide an implementation of the method. Abstract methods are used to specify interfaces in some programming languages.
+
+What is he process of removing physical, spatial, or temporal details or attributes in the study of objects or systems to focus attention on details of greater importance? It is similar in nature to the process of generalization.
+
+Abstraction
+
+Abstraction, in general, is a fundamental concept in computer science and software development. The process of abstraction can also be referred to as modeling and is closely related to the concepts of theory and design. Models can also be considered types of abstractions per their generalization of aspects of reality.
+
+In database management, what is a function where the values of multiple rows are grouped together to form a single summary value?
+
+Aggregate function
+
+Common aggregate functions include: Average, Count, Maximum, Median, Minimum, Mode, Range, Sum.
+
+What is an approach to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customers?
+
+Agile software development
+
+It advocates adaptive planning, evolutionary development, early delivery, and continual improvement, and it encourages rapid and flexible response to change.
+
+What is a data structure consisting of a collection of elements, each identified by one index?
+
+Array
+
+An array is stored such that the position of each element can be computed from its index tuple by a mathematical formula. The simplest type of data structure is a linear array, also called a one-dimensional array.
+
+How do you call tangible by-products produced during the development of software?
+
+Artifacts
+
+Some artifacts (e.g. use cases, class diagrams, and other Unified Modeling Language (UML) models, requirements, and design documents) help describe the function, architecture, and design of software. Other artifacts are concerned with the process of development itself—such as project plans, business cases, and risk assessments.
+
+What is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals?
+
+Artificial Intelligence
+
+In computer science, AI research is defined as the study of "intelligent agents": devices capable of perceiving their environment and taking actions that maximize the chance of successfully achieving their goals. Colloquially, the term "artificial intelligence" is applied when a machine mimics "cognitive" functions that humans associate with other human minds, such as "learning" and "problem solving".
+
+What does the ASCII acronym represent?
+
+American Standard Code for Information Interchange.
+
+ASCII is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices.
+
+In computer programming, a statement that a predicate (Boolean-valued function, i.e. a true–false expression) is always true at that point in code execution.
+
+Assertion
+
+It can help a programmer read the code, help a compiler compile it, or help the program detect its own defects.
+
+The maximum rate of data transfer across a given path.
+
+Bandwidth
+
+Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth.
+
+A formalism and a methodology for having a technique to specify probabilistic models and solve problems when less than the necessary information is available.
+
+Bayesian programming
+
+Edwin T. Jaynes proposed that probability could be considered as an alternative and an extension of logic for rational reasoning with incomplete and uncertain information.
+In his founding book Probability Theory: The Logic of Science[1] he developed this theory and proposed what he called “the robot,” which was not a physical device, but an inference engine to automate probabilistic reasoning—a kind of Prolog for probability instead of logic. Bayesian programming[2] is a formal and concrete implementation of this "robot".
+
+The act of running a computer program, a set of programs, or other operations, in order to assess the relative performance of an object, normally by running a number of standard tests and trials against it.
+
+Benchmark
+
+The term benchmark is also commonly utilized for the purposes of elaborately designed benchmarking programs themselves.
+
+A term used to refer to data sets that are too large or complex for traditional data-processing application software to adequately deal with.
+
+Big Data
+
+Big data challenges include capturing data, data storage, data analysis, search, sharing, transfer, visualization, querying, updating, information privacy and data source. Big data was originally associated with three key concepts: volume, variety, and velocity. When we handle big data, we may not sample but simply observe and track what happens. Therefore, big data often includes data with sizes that exceed the capacity of traditional software to process within an acceptable time and value.
+
+A mathematical notation that describes the limiting behavior of a function when the argument tends towards a particular value or infinity.
+
+big O notation
+
+It is a member of a family of notations invented by Paul Bachmann, Edmund Landau, and others, collectively called Bachmann–Landau notation or asymptotic notation.
+
+In mathematics and digital electronics, a number expressed in the base-2 numeral system or binary numeral system, which uses only two symbols: typically 0 (zero) and 1 (one).
+
+Binary number
+
+The base-2 numeral system is a positional notation with a radix of 2. Each digit is referred to as a bit. Because of its straightforward implementation in digital electronic circuitry using logic gates, the binary system is used by almost all modern computers and computer-based devices.
+
+A search algorithm that finds the position of a target value within a sorted array.
+
+Binary search
+
+Binary search compares the target value to the middle element of the array. If they are not equal, the half in which the target cannot lie is eliminated and the search continues on the remaining half, again taking the middle element to compare to the target value, and repeating this until the target value is found. If the search ends with the remaining half being empty, the target is not in the array.
+
+A tree data structure in which each node has at most two children, which are referred to as the left child and the right child.
+
+Binary tree
+
+A recursive definition using just set theory notions is that a (non-empty) binary tree is a tuple (L, S, R), where L and R are binary trees or the empty set and S is a singleton set.[27] Some authors allow the binary tree to be the empty set as well.
+
+An interdisciplinary field that combines biology, computer science, information engineering, mathematics, and statistics to develop methods and software tools for analyzing and interpreting biological data.
+
+bioinformatics
+
+Bioinformatics is widely used for in silico analyses of biological queries using mathematical and statistical techniques.
+
+A basic unit of information used in computing and digital communications.
+
+Bit
+
+A portmanteau of binary digit. A binary digit can have one of two possible values, and may be physically represented with a two-state device. These state values are most commonly represented as either a 0 or 1.
+
+In telecommunications and computing, the number of bits that are conveyed or processed per unit of time.
+
+Bit rate
+
+The bit rate is quantified using the bits per second unit (symbol: "bit/s"), often in conjunction with an SI prefix such as "kilo" (1 kbit/s = 1,000 bit/s), "mega" (1 Mbit/s = 1,000 kbit/s), "giga" (1 Gbit/s = 1,000 Mbit/s) or "tera" (1 Tbit/s = 1000 Gbit/s).
+
+In computing, a basic access control mechanism that allows through all elements (email addresses, users, passwords, URLs, IP addresses, domain names, file hashes, etc.), except those explicitly mentioned in a list of prohibited elements. Those items on the list are denied access.
+
+Blacklist
+
+The opposite is a whitelist, which means only items on the list are allowed through whatever gate is being used while all other elements are blocked. A greylist contains items that are temporarily blocked (or temporarily allowed) until an additional step is performed.
+
+A unit of digital information that most commonly consists of eight bits, representing a binary number.
+
+Byte
+
+Historically, the byte was the number of bits used to encode a single character of text in a computer and for this reason it is the smallest addressable unit of memory in many computer architectures.
+
+The procedures implemented in starting up a computer or computer appliance until it can be used.
+
+Booting
+
+After the power is switched on, the computer is relatively dumb and can read only part of its storage called read-only memory. There, a small program is stored called firmware. It does power-on self-tests and, most importantly, allows access to other types of memory like a hard disk and main memory. The firmware loads bigger programs into the computer's main memory and runs it.
+
+Any executable code that is passed as an argument to other code that is expected to execute the argument at a given time. 
+
+Callback
+
+This execution may be immediate, as in a synchronous callback, or it might happen at a later time, as in an asynchronous callback.
+
+A unit of information that roughly corresponds to a grapheme, grapheme-like unit, or symbol, such as in an alphabet or syllabary in the written form of a natural language.
+
+Character
+
+Examples of characters include letters, numerical digits, common punctuation marks (such as "." or "-"), and whitespace. The concept also includes control characters, which do not correspond to visible symbols but rather to instructions to format or process the text. Examples of control characters include carriage return or tab, as well as instructions to printers or other devices that display or otherwise process text.
+
+In cryptography, an algorithm for performing encryption or decryption—a series of well-defined steps that can be followed as a procedure.
+
+Cipher
+
+The operation of a cipher usually depends on a piece of auxiliary information, called a key (or, in traditional NSA parlance, a cryptovariable). The encrypting procedure is varied depending on the key, which changes the detailed operation of the algorithm. A key must be selected before using a cipher to encrypt a message. Without knowledge of the key, it should be extremely difficult, if not impossible, to decrypt the resulting ciphertext into readable plaintext.
+Most modern ciphers can be categorized in several ways:
+- By whether they work on blocks of symbols usually of a fixed size (block ciphers), or on a continuous stream of symbols (stream ciphers).
+- By whether the same key is used for both encryption and decryption (symmetric key algorithms), or if a different key is used for each (asymmetric key algorithms). If the algorithm is symmetric, the key must be known to the recipient and sender and to no one else. If the algorithm is an asymmetric one, the enciphering key is different from, but closely related to, the deciphering key. If one key cannot be deduced from the other, the asymmetric key algorithm has the public/private key property and one of the keys may be made public without loss of confidentiality.
+
+In object-oriented programming, an extensible program-code-template for creating objects, providing initial values for state (member variables) and implementations of behavior (member functions or methods).
+
+Class
+
+In many languages, the class name is used as the name for the class (the template itself), the name for the default constructor of the class (a subroutine that creates objects), and as the type of objects generated by instantiating the class; these distinct concepts are easily conflated.
+
+A piece of computer hardware or software that accesses a service made available by a server.
+
+Client
+
+The server is often (but not always) on another computer system, in which case the client accesses the service by way of a network. The term applies to the role that programs or devices play in the client–server model.
+
+A technique for implementing lexically scoped name binding in a language with first-class functions.
+
+Closure
+
+Operationally, a closure is a record storing a function[a] together with an environment.
+
+Shared pools of configurable computer system resources and higher-level services that can be rapidly provisioned with minimal management effort, often over the Internet.
+
+Cloud computing
+
+Cloud computing relies on sharing of resources to achieve coherence and economies of scale, similar to a public utility.
+
+What does the CSV acronym stand for?
+
+Comma-separated values
+
+A delimited text file that uses a comma to separate values. A CSV file stores tabular data (numbers and text) in plain text. Each line of the file is a data record. Each record consists of one or more fields, separated by commas. The use of the comma as a field separator is the source of the name for this file format.
+
+A computer program that transforms computer code written in one programming language (the source language) into another programming language (the target language).
+
+Compiler
+
+Compilers are a type of translator that support digital devices, primarily computers. The name compiler is primarily used for programs that translate source code from a high-level programming language to a lower-level language (e.g. assembly language, object code, or machine code) to create an executable program.
+
+A device that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming. 
+
+Computer
+
+Modern computers have the ability to follow generalized sets of operations, called programs. These programs enable computers to perform an extremely wide range of tasks.
+
+A set of rules and methods that describe the functionality, organization, and implementation of computer systems.
+
+Computer architecture
+
+Some definitions of architecture define it as describing the capabilities and programming model of a computer but not a particular implementation.[57] In other definitions computer architecture involves instruction set architecture design, microarchitecture design, logic design, and implementation.
+
+An interdisciplinary scientific field that deals with how computers can be made to gain high-level understanding from digital images or videos.
+
+Computer vision
+
+From the perspective of engineering, it seeks to automate tasks that the human visual system can do.
+
+The ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the final outcome.
+
+Concurrency
+
+This allows for parallel execution of the concurrent units, which can significantly improve overall speed of the execution in multi-processor and multi-core systems. In more technical terms, concurrency refers to the decomposability property of a program, algorithm, or problem into order-independent or partially-ordered components or units.
+
+A feature of a programming language which performs different computations or actions depending on whether a programmer-specified Boolean condition evaluates to true or false.
+
+Conditional statement
+
+Apart from the case of branch predication, this is always achieved by selectively altering the control flow based on some condition.
+
+ A computer program that runs as a background process, rather than being under the direct control of an interactive user.
+
+Daemon
+
+Traditionally, the process names of a daemon end with the letter d, for clarification that the process is in fact a daemon, and for differentiation between a daemon and a normal computer program. For example, syslogd is a daemon that implements system logging facility, and sshd is a daemon that serves incoming SSH connections.
+
+An interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from data in various forms, both structured and unstructured.
+
+Data Science
+
+Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data. It employs techniques and theories drawn from many fields within the context of mathematics, statistics, information science, and computer science.
+
+A data organization, management, and storage format that enables efficient access and modification.
+
+Data structure
+
+More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
+
+An attribute of data which tells the compiler or interpreter how the programmer intends to use the data.
+
+Data type
+
+Most programming languages support common data types of real, integer, and Boolean. A data type constrains the values that an expression, such as a variable or a function, might take. This data type defines the operations that can be done on the data, the meaning of the data, and the way values of that type can be stored. A type of value from which an expression may take its value.
+
+The process of finding and resolving defects or problems within a computer program that prevent correct operation of computer software or the system as a whole.
+
+Debugging
+
+Debugging tactics can involve interactive debugging, control flow analysis, unit testing, integration testing, log file analysis, monitoring at the application or system level, memory dumps, and profiling.
+
+An algorithm design paradigm based on multi-branched recursion.
+
+Divide and conquer
+
+A divide-and-conquer algorithm works by recursively breaking down a problem into two or more sub-problems of the same or related type, until these become simple enough to be solved directly. The solutions to the sub-problems are then combined to give a solution to the original problem.
+
+What does the DNS acronym stand for?
+
+Domain Name System
+
+The Domain Name System (DNS) is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities.
+Most prominently, it translates more readily memorized domain names to the numerical IP addresses needed for locating and identifying computer services and devices with the underlying network protocols. By providing a worldwide, distributed directory service, the Domain Name System has been an essential component of the functionality of the Internet since 1985.
+
+Written text or illustration that accompanies computer software or is embedded in the source code.
+
+Documentation
+
+It either explains how it operates or how to use it, and may mean different things to people in different roles.
+
+A family of algorithms for global optimization inspired by biological evolution, and the subfield of artificial intelligence and soft computing studying these algorithms.
+
+Evolutionary computing
+
+In technical terms, they are a family of population-based trial-and-error problem-solvers with a metaheuristic or stochastic optimization character.
+
+Causes a computer to perform indicated tasks according to encoded instructions, as opposed to a data file that must be parsed by a program to be meaningful.
+
+Executable
+
+The exact interpretation depends upon the use - while "instructions" is traditionally taken to mean machine code instructions for a physical CPU, in some contexts a file containing bytecode or scripting language instructions may also be considered executable.
+
+The study of mathematical models of strategic interaction between rational decision-makers.
+
+Game theory
+
+It has applications in all fields of social science, as well as in logic and computer science. Originally, it addressed zero-sum games, in which each participant's gains or losses are exactly balanced by those of the other participants. Today, game theory applies to a wide range of behavioral relations, and is now an umbrella term for the science of logical decision making in humans, animals, and computers.
+
+In computer programming, a variable with global scope, meaning that it is visible (hence accessible) throughout the program, unless shadowed. 
+
+Global variable
+
+The set of all global variables is known as the global environment or global state. In compiled languages, global variables are generally static variables, whose extent (lifetime) is the entire runtime of the program, though in interpreted languages (including command-line interpreters), global variables are generally dynamically allocated when declared, since they are not known ahead of time.
+
+In mathematics, the study of graphs, which are mathematical structures used to model pairwise relations between objects.
+
+Graph theory
+
+A graph in this context is made up of vertices (also called nodes or points) which are connected by edges (also called links or lines). A distinction is made between undirected graphs, where edges link two vertices symmetrically, and directed graphs, where edges link two vertices asymmetrically.
+
+Any function that can be used to map data of arbitrary size to data of a fixed size. 
+
+Hash function
+
+The values returned by a hash function are called hash values, hash codes, digests, or simply hashes. Hash functions are often used in combination with a hash table, a common data structure used in computer software for rapid data lookup. Hash functions accelerate table or database lookup by detecting duplicated records in a large file.
+
+A specialized tree-based data structure which is essentially an almost complete tree that satisfies the following property: if P is a parent node of C, then the the value of P is either greater than or equal to the value of C.
+
+Heap
+
+The heap is one maximally efficient implementation of an abstract data type called a priority queue, and in fact, priority queues are often referred to as "heaps", regardless of how they may be implemented. In a heap, the highest (or lowest) priority element is always stored at the root. However, a heap is not a sorted structure; it can be regarded as being partially ordered. A heap is a useful data structure when it is necessary to repeatedly remove the object with the highest (or lowest) priority.
+
+A comparison-based sorting algorithm. that can be thought of as an improved selection sort. The improvement consists of the use of a heap data structure rather than a linear-time search to find the maximum.
+
+Heapsort
+
+Like selection sort, it divides its input into a sorted and an unsorted region, and it iteratively shrinks the unsorted region by extracting the largest element and moving that to the sorted region.
+
+What does IDE stand for?
+
+Integrated development environment
+
+An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger. Some IDEs, such as NetBeans and Eclipse, contain the necessary compiler, interpreter, or both.
+
+A programming paradigm that uses statements that change a program's state.
+
+Imperative programming
+
+In much the same way that the imperative mood in natural languages expresses commands, an imperative program consists of commands for the computer to perform. Imperative programming focuses on describing how a program operates.
+
+In object-oriented programming, the mechanism of basing an object or class upon another object or class, retaining similar implementation.
+
+Inheritance
+
+Also defined as deriving new classes (sub classes) from existing ones (super class or base class) and forming them into a hierarchy of classes.
+
+A simple sorting algorithm that builds the final sorted array (or list) one item at a time.
+
+Insertion sort
+
+When people manually sort cards in a bridge hand, most use a method that is similar to insertion sort.
+
+The phase in software testing in which individual software modules are combined and tested as a group.
+
+Integration testing
+
+It occurs after unit testing and before validation testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing.
+
+The global system of interconnected computer networks that use the Internet protocol suite (TCP/IP) to link devices worldwide.
+
+Internet
+
+It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies.
+
+A linear collection of data elements, whose order is not given by their physical placement in memory. Instead, each element points to the next. It is a data structure consisting of a collection of nodes which together represent a sequence.
+
+Linked list
+
+Linked lists are among the simplest and most common data structures. They can be used to implement several other common abstract data types, including lists, stacks, queues, associative arrays, and S-expressions, though it is not uncommon to implement those data structures directly without using a linked list as the basis.
+
+A computer utility program that takes one or more object files generated by a compiler or an assembler and combines them into a single executable file, library file, or another 'object' file. 
+
+Linker
+
+Static linking is the result of the linker copying all library routines used in the program into the executable image. Many operating system environments also allow dynamic linking, deferring the resolution of some undefined symbols until a program is run.
+
+The scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence.
+
+Machine learning
+
+Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task.
+
+A subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.
+
+Natural language processing
+
+Challenges in natural language processing frequently involve speech recognition, natural language understanding, and natural language generation.
+
+A branch of pure mathematics devoted primarily to the study of the integers and integer-valued functions.
+
+Number theory
+
+Carl Friedrich Gauss said, "Mathematics is the queen of the sciences—and number theory is the queen of mathematics."
+
+The study of algorithms that use numerical approximation (as opposed to symbolic manipulations).
+
+Numerical analysis
+
+The overall goal of the field of numerical analysis is the design and analysis of techniques to give approximate but accurate solutions to hard problems.
+
+An agile software development technique in which two programmers work together at one workstation.
+
+Pair programming
+
+One, the driver, writes code while the other, the observer or navigator, reviews each line of code as it is typed in. The two programmers switch roles frequently.
+
+In computer programming, a condition or predicate that must always be true just after the execution of some section of code or after an operation in a formal specification.
+
+Postcondition
+
+Postconditions are sometimes tested using assertions within the code itself. Often, postconditions are simply included in the documentation of the affected section of code.
+
+In computer programming, a condition or predicate that must always be true just prior to the execution of some section of code or before an operation in a formal specification.
+
+Precondition
+
+If a precondition is violated, the effect of the section of code becomes undefined and thus may or may not carry out its intended work. Security problems can arise due to incorrect preconditions.
+
+A collection in which the entities in the collection are kept in order and the principal (or only) operations on the collection are the addition of entities to the rear terminal position and removal of entities from the front terminal position.
+
+Queue
+
+Queues provide services in computer science, transport, and operations research where various entities such as data, objects, persons, or events are stored and held to be processed later. In these contexts, the queue performs the function of a buffer. Another usage of queues is in the implementation of breadth-first search.
+
+Occurs when a thing is defined in terms of itself or of its type.
+
+Recursion
+
+The most common application of recursion is in mathematics and computer science, where a function being defined is applied within its own definition.
+
+A networking device that forwards data packets between computer networks.
+
+Router
+
+Routers perform the traffic directing functions on the Internet.
+
+The process of translating data structures or object state into a format that can be stored or transmitted and reconstructed later .
+
+Serialization
+
+When the resulting series of bits is reread according to the serialization format, it can be used to create a semantically identical clone of the original object. For many complex objects, such as those that make extensive use of references, this process is not straightforward. 
+
+Is an abstract data type that can store unique values, without any particular order.
+
+Set
+
+It is a computer implementation of the mathematical concept of a finite set. Unlike most other collection types, rather than retrieving a specific element from a set, one typically tests a value for membership in a set.
+
+A reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it.
+
+Uniform Resource Locator
+
+A URL is a specific type of Uniform Resource Identifier (URI), although many people use the two terms interchangeably.
+
+A storage location (identified by a memory address) paired with an associated symbolic name (an identifier),
+
+Variable
+
+The variable name is the usual way to reference the stored value, in addition to referring to the variable itself, depending on the context. This separation of name and content allows the name to be used independently of the exact information it represents.
+
+An emulation of a computer system.
+
+Virtual machine
+
+Virtual machines are based on computer architectures and attempt to provide the same functionality as a physical computer. Their implementations may involve specialized hardware, software, or a combination of both.
+
+A family of wireless networking technologies, based on the IEEE 802.11 family of standards, which are commonly used for local area networking of devices and Internet access.
+
+Wi-Fi
+
+Wi‑Fi is a trademark of the non-profit Wi-Fi Alliance, which restricts the use of the term Wi-Fi Certified to products that successfully complete interoperability certification testing.

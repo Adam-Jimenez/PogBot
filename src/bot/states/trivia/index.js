@@ -67,7 +67,7 @@ module.exports = class TriviaState {
       clearTimeout(this.timeout)
     }
     this.timeout = setTimeout(() => {
-        this.chat.sendMessage(this.channels.random, `The answer was: ${this.question.answer}`)
+        this.chat.sendMessage(this.channels.random, `The answer was: **${this.question.answer}**`)
         nextQuestion()
         this.bot.setState("default")
     }, 20000)
